@@ -1,0 +1,102 @@
+[
+   {
+       "id": 0,
+       "name": "M S Dhoni",
+       "country": "India",
+       "type":"Batsman",
+       "avtar": "",
+       "about": "Dhoni - Best Captian",
+       "selected": false
+   },
+   {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "type":"Batsman",
+    "avtar": "",
+    "about": "Virat - Best Batsman",
+    "selected": false
+},
+{
+    "id": 2,
+    "name": "Yuvaraj Singh",
+    "country": "India",
+    "type":"Batsman",
+    "avtar": "",
+    "about": "Yuvraj - Six Sixes in Over",
+    "selected": false
+},
+{
+    "id": 3,
+    "name": "Harbajan Singh",
+    "country": "India",
+    "type":"Bowler",
+    "avtar": "",
+    "about": "Harbajan - Opener",
+    "selected": false
+},
+{
+    "id": 4,
+    "name": "Anil Kumble",
+    "country": "India",
+    "type":"Bowler",
+    "avtar": "",
+    "about": "Anil - Best Bowler",
+    "selected": false
+},
+{
+    "id": 5,
+    "name": "Gavaskar",
+    "country": "India",
+    "type":"Allrounder",
+    "avtar": "Best",
+    "about": "Gavaskar - Senior Player",
+    "selected": false
+},
+{
+    "id": 6,
+    "name": "Kapil Dev",
+    "country": "India",
+    "type":"Allrounder",
+    "avtar": "",
+    "about": "Kapil - Best Allrounder",
+    "selected": false
+},
+{
+    "id": 7,
+    "name": "Jadeja",
+    "country": "India",
+    "type":"Allrounder",
+    "avtar": "",
+    "about": "Jadeja - Best Finisher",
+    "selected": false
+},
+{
+    "id": 8,
+    "name": "Ganguly",
+    "country": "India",
+    "type":"Batsman",
+    "avtar": "",
+    "about": "Ganguly - ICC Head",
+    "selected": false
+},
+{
+    "id": 9,
+    "name": "Sachin",
+    "country": "India",
+    "type":"Allrounder",
+    "avtar": "",
+    "about": "Sachin - Top Batsman",
+    "selected": false
+},
+{
+    "id": 10,
+    "name": "Dravid",
+    "country": "India",
+    "type":"Bowler",
+    "avtar": "",
+    "about": "Dravid - Slow & Steady",
+    "selected": false
+}
+
+]
